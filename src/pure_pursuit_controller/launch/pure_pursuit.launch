@@ -1,0 +1,17 @@
+<launch>
+    <node pkg="pure_pursuit_controller" type="pure_pursuit_controller_advanced" name="pure_pursuit_controller_advanced" output="screen">
+        
+        <param name="csv_file" value="/home/highsky/odometry_data2.csv" />
+        <param name="odom_topic" value="/carla/ego_vehicle/odometry" />
+        <param name="control_topic" value="/carla/ego_vehicle/vehicle_control_cmd" />
+        
+        <param name="wheelbase" value="3.0" />
+        <param name="target_speed" value="15.0" /> <param name="lookahead_k" value="0.2" />
+        <param name="min_lookahead_distance" value="3.0" />
+        
+        <param name="pid_kp" value="0.75" />
+        <param name="pid_ki" value="0.03" />
+        <param name="pid_kd" value="0.55" />
+        
+    </node>
+</launch>
