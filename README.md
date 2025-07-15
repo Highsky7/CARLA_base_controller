@@ -26,7 +26,7 @@ rosrun carla_pid_controller pid_controller
 -   **Debug Topics:** `/pid_controller/target_speed`, `/pid_controller/current_speed`
 
 **Result:**
-![PID Controller Demo](carla_pid_controller.gif)
+![PID Controller Demo](carla_pid_result.gif)
 
 ---
 
@@ -50,7 +50,7 @@ roslaunch pure_pursuit_controller pure_pursuit.launch
 -   `pid_kp`, `pid_ki`, `pid_kd`: PID gains for the speed controller.
 
 **Result:**
-![Pure Pursuit Demo](carla_pure_pursuit.gif)
+![Pure Pursuit Demo](carla_pure_pursuit_result.gif)
 
 ---
 
