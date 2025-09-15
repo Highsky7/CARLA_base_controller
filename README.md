@@ -99,7 +99,8 @@ rosrun velocity_planning velocity_planning
 
 This repository was developed as part of a graduation project. The final report provides a detailed overview of the project, including the design, implementation, and results of the controllers.
 
-[**View the Final Report (PDF)**]: (https://drive.google.com/file/d/1HFOjPboisc_poEx3CZaeLitN4R9pTad-/view?usp=sharing)
+View the Final Report (PDF): 
+(https://drive.google.com/file/d/1HFOjPboisc_poEx3CZaeLitN4R9pTad-/view?usp=sharing)
 
 ## Contributing
 
