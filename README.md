@@ -99,7 +99,7 @@ rosrun velocity_planning velocity_planning
 
 I used the `carla_pid_controller` and `pure_pursuit_controller` packages from this repository for my graduation project. The goal was to implement a self-driving car in the CARLA simulator. The PID controller was used for longitudinal control to maintain a constant speed, and the Pure Pursuit controller was used for lateral control to follow a predefined path. This repository was a great starting point, and I was able to successfully complete my project using it as a foundation.
 
-You can find the final report of this project on here: [![Final_Report](https://github.com/Highsky7/CARLA_base_controller/blob/main/CARLA_base_controller_final_report.pdf)]
+You can find the final report of this project on here: (https://github.com/Highsky7/CARLA_base_controller/blob/main/CARLA_base_controller_final_report.pdf)
 
 ## Contributing
 
